@@ -1,2 +1,2 @@
 # Introduction-to-Deep-Learning
-Introduction to Deep Learning Course Project
+Introduction to Deep Learning  Project
